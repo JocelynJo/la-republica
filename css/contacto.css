@@ -1,1 +1,22 @@
-/* Inserta tu código de la página contacto acá */
+.form-control {
+	background-color: #EEEEEE;
+	border-style: inset;
+}
+
+.btn-primary {
+	background-color: #1b1515;
+	width: 40%;
+	border:none;
+}
+
+.textopa {
+	display: block;
+	float:right;
+}
+
+@media (max-width:800px){
+
+.col-md-8 {
+
+	width: 100%;
+}
