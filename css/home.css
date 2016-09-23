@@ -25,5 +25,30 @@
 	color: #FFFFFF;
 
 }
+.contenedor-rg{
+	margin-left: 3%;
+}
+.emma-rg{
+	margin-left: 2%;
+}
+.emma-texto-rg{
+	margin-left: 2%;
+}
+.hor-rg{
+	margin-left: 3%;
+}
+.what-rg{
+	color:#999999;
+	display: inline-block;
+}
+.plt-rg{
+	display: inline-block;
+}
 
-
+.ytb-rg{
+	display: inline-block;
+}
+.hr-rg{
+	width: 75%;
+	margin-right: 40%;
+}
