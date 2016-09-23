@@ -1,1 +1,39 @@
 /* Inserta tu código de la página home/index acá */
+/*Columnistas*/
+.columnistas{
+	background: #F2F2F2;
+	position: relative;
+	border-top: 2px solid #C71100;
+	padding: 0% 2%;
+	margin-top: 5%;
+}
+
+.red-m{
+	background:#C71100;
+	position: relative;
+	margin-bottom: 2%;
+	left: 37%;
+	margin-top: -1%;
+}
+
+.red-m h3{
+	color:#FFFFFF;
+	margin: 3%;
+}
+
+.columnistas-m{
+	border:3px solid #fff;
+}
+
+.nombre-m{
+	font-size: 11px;
+}
+
+.columnistas p{
+
+}
+@media (max-width:800px ){
+	.red-m{
+		left: 20%;
+	}
+}

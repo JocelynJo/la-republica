@@ -1,1 +1,59 @@
 /* Inserta tu código de la página columnistas acá */
+#columnistas h2{
+	font-weight: 700;
+}
+
+#columnistas h4 {
+	font-weight: 600;
+	color: #7e7e7e;
+	font-family:;
+}
+i{
+	color:red;
+}
+.contenedor-columnista{
+	padding: 0% 3%;
+}
+
+.borde{
+	padding:2% 1% ;
+	border:2px solid #E1E7EA;
+	margin: 1%;
+}
+
+.fecha-m{
+	font-size: 10px;
+}
+
+.titulo-m{
+	font-size: 18px;
+}
+
+.gol-m{
+	margin-bottom: 11%;
+}
+
+.fotos-columnistas-m{
+	padding: 2% 6%;
+}
+
+.border-m{
+	border:3px solid #FFFFFF;
+}
+
+.gris{
+	background:#E1E7EA;
+	margin: 1%;
+	padding:6% 2%;
+}
+
+.nombre-m{
+	font-weight: 600;
+	font-size: 12px;
+	margin:0%;
+}
+
+.caracteristica-m{
+	font-weight: 600;
+	color:#7e7e7e;
+}
