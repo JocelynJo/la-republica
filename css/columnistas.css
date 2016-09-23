@@ -1,1 +1,45 @@
 /* Inserta tu código de la página columnistas acá */
+/* footer pris*/
+.pbcuatro{
+	margin: 0;
+	padding-left: 10%;
+	color:#565555;
+}
+.pbtres{
+	color:#565555;
+}
+.pbpb{
+	font-size: 13px;
+}
+.pbfondo{
+background-color: #E4E4E4;
+padding: 5% 0 1% 0;
+}
+.pblogo{
+	margin-top: 40%;
+}
+/*lineas y texto final*/
+.pblineavertical{
+	border-left:  1px solid white;
+}
+.pblineaverticaldos{
+	border-left:  1px solid #D5D3D3;
+     margin-left: -6%;
+}
+.pblineados{
+	border: 1px solid white;
+	margin:0 0 1% 0;
+}
+.pblinea{
+	margin:2% 0 0 0;
+	border: 1px solid #D5D3D3;
+}
+.pbtermino{
+	color:#565555;
+}
+/*footer negro*/
+.pbfooterr{
+	background-color: black;
+	color:white;
+	padding: 2% 0 3% 0;
+}
