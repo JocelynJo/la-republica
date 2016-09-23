@@ -1,4 +1,221 @@
 /* Inserta tu código de la página home/index acá */
+<<<<<<< HEAD
+/* recuerden poner sus iniciales antes de cada selector de sus estilos/*
+/*no borre sus comentarios al contrario agregue*/
+
+/*estilos Ingrid */
+
+/*estilos Jo*/
+.jredes .jpoli{
+	color: gray;
+	font-size: 80%;
+}
+.jredes span{
+	font-size: 90%;
+}
+.jpuntito{
+	margin-left: 4%;
+}
+.jtitulo{
+	font-size: 350%;
+}
+.jseparar{
+	margin-left: 4%;
+}
+.jpuntito2{
+	margin-left: 2%;
+	-webkit-filter: brightness(100%);
+	filter: brightness(100%);
+}
+.jgradiente .jpolitica{
+	color:white;
+
+}
+.jfondo{
+	background-image: url(../image/img_grid_principal.jpg);
+	width: 100%;
+	height: 506px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	color:white;
+	margin-top: 5%;
+}
+
+
+.jgradiente{
+	padding: 71% 3% 1% 3%;
+	width: 100%; 
+	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 ); 
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	margin-top: 5%;
+}
+
+.jfondo ul {
+	
+	position: relative;
+	top:-7%;
+	margin-left: 23%;
+	list-style-type:circle;	
+
+}
+.jfondo ul li{
+	display: inline-block;
+	margin-left: 10%;
+	padding-bottom: -9%;
+	list-style-type: disc;
+	font-size: 80%;
+	
+}
+.jpolitica{
+	
+	font-size: 80%;
+}
+.jminutos{
+	
+	font-size: 80%;
+}
+
+.jfondo ul li a{
+	color:white;
+}
+.jfondo2 .jpolitica{
+	color:white;
+}
+.jfondo2{
+	background-image: url(../image/img_grid_secundario.jpg);
+	width: 100%;
+	height: 240px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	color:white;
+	margin-top: 5%;
+
+}
+.jgradiente2{
+	padding: 21% 3% 0% 3%;
+	width: 100%; 
+	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+.jgradiente2 ul li {
+	margin-left: 20%;
+}
+.jgradiente2{
+	padding: 30% 3% 0% 3%;
+	width: 100%; 
+	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+.jfono2 #jlista-ch1 ul{
+	margin-left:50% !important;
+}
+
+
+.jgradiente3{
+	padding: 30% 3% 3% 3%;
+	width: 100%; 
+	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
+	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
+}
+.jlista1{
+	display: inline-block;
+	margin-left: 2%;
+	padding-bottom: -9%;
+	
+}
+
+
+.jfotos{
+	padding: 10%;
+}
+.jlista a{
+	color:white;
+
+}
+.jpad{
+	margin: 10%;
+}
+
+/*estilos Marcia*/
+
+/*estilos Nadia*/
+
+/*estilos Regina*/
+
+/*estilos Pris*/
+=======
+/*Columnistas marcia*/
+.columnistas{
+	background: #F2F2F2;
+	position: relative;
+	border-top: 2px solid #C71100;
+	padding: 0% 2%;
+	margin-top: 5%;
+}
+
+.red-m{
+	background:#C71100;
+	position: relative;
+	margin-bottom: 2%;
+	left: 37%;
+	margin-top: -1%;
+}
+
+.red-m h3{
+	color:#FFFFFF;
+	margin: 3%;
+}
+
+.columnistas-m{
+	border:3px solid #fff;
+}
+
+.nombre-m{
+	font-size: 11px;
+}
+
+.columnistas p{
+
+}
+@media (max-width:800px ){
+	.red-m{
+		left: 20%;
+	}
+}
 /* footer pris*/
 .pbcuatro{
 	margin: 0;
@@ -113,3 +330,4 @@ a{
 }
 /*fin estilos nadia*/
 
+>>>>>>> fcd6b307407524e0d18cc29a5dfa82678ead4df9
