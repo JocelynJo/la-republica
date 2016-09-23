@@ -1,4 +1,43 @@
 /* Inserta tu código de la página blog acá */
+/* blogs-pris*/
+.pbblog{
+	color:#7D7B7B;
+	font-weight: 600;
+	float: left;
+	margin-right: 0.5%;
+}
+.pbcaja{
+	border: 1px solid #D0CFCF;
+	padding: 15% 6% 10% 6%;
+	margin: 0 0% 5% 0;
+}
+.pbcaja1{
+	font-size: 11px;
+}
+.pbcaja2{
+	font-size: 17px;
+	padding-bottom: 5%;
+}
+.pbcj{
+	float: left;
+	margin-right: 5%;
+	border: 1px solid white;
+}
+.pbcajadentro{
+	background-color: #E1E7EA;
+	padding: 6% 0% 9% 5%;
+}
+.pbbox{
+	margin-top: 5%;
+}
+.pbcj1{
+	margin: 0;
+}
+.pbcj2{
+	color:#7D7B7B;
+}
+/*fin de blogs*/
+
 /* footer pris*/
 .pbcuatro{
 	margin: 0;
