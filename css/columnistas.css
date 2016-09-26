@@ -1,1 +1,143 @@
 /* Inserta tu código de la página columnistas acá */
+/*columnistas marcia*/
+#columnistas h2{
+	font-weight: 700;
+}
+
+#columnistas h4 {
+	font-weight: 600;
+	color: #7e7e7e;
+	font-family:;
+}
+i{
+	color:red;
+}
+.contenedor-columnistas{
+	padding: 0% 3%;
+}
+
+.borde{
+	padding:2% 1% ;
+	border:2px solid #E1E7EA;
+	margin: 1%;
+}
+
+.fecha-m{
+	font-size: 10px;
+}
+
+.titulo-m{
+	font-size: 18px;
+}
+
+.gol-m{
+	margin-bottom: 11%;
+}
+
+.fotos-columnistas-m{
+	padding: 2% 6%;
+}
+
+.border-m{
+	border:3px solid #FFFFFF;
+}
+
+.gris{
+	background:#E1E7EA;
+	margin: 1%;
+	padding:6% 2%;
+}
+
+.nombre-m{
+	font-weight: 600;
+	font-size: 12px;
+	margin:0%;
+}
+
+.caracteristica-m{
+	font-weight: 600;
+	color:#7e7e7e;
+}
+/* Iny seccion roja */
+#roja{
+	margin-bottom: 2%;
+}
+#roja .btn{
+	background-color: #D90C0C;
+	margin: 2% 0 4% 0;
+}
+.nav-rojo{
+	background-color: #D90C0C;
+	padding: 1%;
+	margin: 2% 0;
+}
+.nav-rojo li{
+	margin: auto 20px;
+	padding: 1% 2%;
+}
+.nav-rojo li:hover{
+	background-color: #970A00;
+	border-radius: 20px;	
+}
+.nav-rojo a{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+#roja h4{
+	font-weight: 600;
+    color: #7e7e7e;
+}
+.im-box{
+	padding: 5px 1px;
+}
+.im-box2{
+	padding: 5px 1px;
+}
+im-box-autor{
+	margin-bottom: 1%;
+}
+/* footer pris*/
+.pbcuatro{
+	margin: 0;
+	padding-left: 10%;
+	color:#565555;
+}
+.pbtres{
+	color:#565555;
+}
+.pbpb{
+	font-size: 13px;
+}
+.pbfondo{
+background-color: #E4E4E4;
+padding: 5% 0 1% 0;
+}
+.pblogo{
+	margin-top: 40%;
+}
+/*lineas y texto final*/
+.pblineavertical{
+	border-left:  1px solid white;
+}
+.pblineaverticaldos{
+	border-left:  1px solid #D5D3D3;
+     margin-left: -6%;
+}
+.pblineados{
+	border: 1px solid white;
+	margin:0 0 1% 0;
+}
+.pblinea{
+	margin:2% 0 0 0;
+	border: 1px solid #D5D3D3;
+}
+.pbtermino{
+	color:#565555;
+}
+/*footer negro*/
+.pbfooterr{
+	background-color: black;
+	color:white;
+	padding: 2% 0 3% 0;
+}
