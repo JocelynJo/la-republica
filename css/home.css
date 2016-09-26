@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .arrow-rg{
 	width: 2%;
 	height: 2%;
@@ -141,6 +141,10 @@ margin-left: 2%;
 		margin-left: 5%;
 	}
 	
+
+
+/* Inserta tu código de la página home/index acá *
+>>>>>>> master
 =======
 /* Inserta tu código de la página home/index acá */
 
@@ -321,6 +325,8 @@ margin-left: 2%;
 /*estilos Regina*/
 
 /*estilos Pris*/
+
+
 /*Columnistas marcia*/
 .columnistas{
 	background: #F2F2F2;
@@ -403,6 +409,7 @@ padding: 5% 0 1% 0;
 	color:white;
 	padding: 2% 0 3% 0;
 }
+
 /*estilos nadia*/
 /*estilos cuatro fotos fut.+sidebar*/
 .row .nad{
@@ -472,6 +479,7 @@ a{
 	}
 }
 /*fin estilos nadia*/
->>>>>>> 358a6e7ff4cfcecd85a48f46ab31c99ead71372f
+
+
 
 
