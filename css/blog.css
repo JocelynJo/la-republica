@@ -82,3 +82,9 @@ padding: 5% 0 1% 0;
 	color:white;
 	padding: 2% 0 3% 0;
 }
+.nared{
+	background-image:url("../image/img_especiales.jpg");
+	background-size:cover;
+	background-position:center;
+	
+}

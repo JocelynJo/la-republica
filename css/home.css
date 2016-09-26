@@ -1,9 +1,7 @@
 
-/* Inserta tu código de la página home/index acá *
-=======
 /* Inserta tu código de la página home/index acá */
 
-/* recuerden poner sus iniciales antes de cada selector de sus estilos/*
+/* recuerden poner sus iniciales antes de cada selector de sus estilos*/
 /*no borre sus comentarios al contrario agregue*/
 
 /*estilos Ingrid */
@@ -55,7 +53,6 @@
 	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
 	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
 	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6000000',GradientType=0 ); 
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -116,7 +113,6 @@
 	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
 	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
 	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -133,7 +129,6 @@
 	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
 	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
 	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -151,8 +146,7 @@
 	width: 100%; 
 	background: -webkit-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
 	background: -o-linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%);
-	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
+	background: linear-gradient(rgba(0,0,0,0) 0%, rgba(0,0,0,0) 6%, rgba(0,0,0,0.65) 100%); 
 }
 .jlista1{
 	display: inline-block;
@@ -172,15 +166,6 @@
 .jpad{
 	margin: 10%;
 }
-
-/*estilos Marcia*/
-
-/*estilos Nadia*/
-
-/*estilos Regina*/
-
-/*estilos Pris*/
-
 
 /*Columnistas marcia*/
 .columnistas{
@@ -212,9 +197,6 @@
 	font-size: 11px;
 }
 
-.columnistas p{
-
-}
 @media (max-width:800px ){
 	.red-m{
 		left: 20%;
@@ -277,7 +259,7 @@ padding: 5% 0 1% 0;
 }
 
 .nared{
-	background-image:url(../image/img_especiales.jpg);
+	background-image:url("../image/img_especiales.jpg");
 	background-size:cover;
 	background-position:center;
 	
