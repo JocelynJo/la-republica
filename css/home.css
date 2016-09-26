@@ -1,4 +1,8 @@
+
 /* Inserta tu código de la página home/index acá *
+=======
+/* Inserta tu código de la página home/index acá */
+
 /* recuerden poner sus iniciales antes de cada selector de sus estilos/*
 /*no borre sus comentarios al contrario agregue*/
 
@@ -177,6 +181,7 @@
 
 /*estilos Pris*/
 
+
 /*Columnistas marcia*/
 .columnistas{
 	background: #F2F2F2;
@@ -259,3 +264,77 @@ padding: 5% 0 1% 0;
 	color:white;
 	padding: 2% 0 3% 0;
 }
+<<<<<<< HEAD
+=======
+/*estilos nadia*/
+/*estilos cuatro fotos fut.+sidebar*/
+.row .nad{
+	margin:0%;
+}
+.tap{
+	border:1px solid grey;
+	margin:2%;
+	padding:3% 0%;
+}
+
+.nared{
+	background-image:url(../image/img_especiales.jpg);
+	background-size:cover;
+	background-position:center;
+
+	
+}
+.nablue{
+	background-image:url(../image/img_especiales.jpg);
+	background-size:cover;
+	background-position:center;
+	
+}
+.nayellow{
+	background-image:url(../image/img_especiales.jpg);
+	background-size:cover;
+	background-position:center;
+	
+}
+.nablack{
+	position:relative;
+	background-image:url(../image/img_especiales.jpg);
+	background-size:cover;
+	background-position:center;
+	
+}
+.natext{
+	margin:0%; 
+}
+
+h4{
+	color:#D90C0C;
+}
+.texto{
+	color:white;
+	padding-bottom:2%;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+.grad{
+	background: linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.8));
+	color:white;
+	padding-top:45%;
+}
+.txt{
+	padding: 1%;
+}
+.banner{
+	padding:1%;
+}
+@media (max-width:700px){
+	.banner{
+		display: none;
+	}
+}
+/*fin estilos nadia*/
+
+
+

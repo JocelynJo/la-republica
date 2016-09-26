@@ -58,6 +58,45 @@ i{
 	font-weight: 600;
 	color:#7e7e7e;
 }
+/* Iny seccion roja */
+#roja{
+	margin-bottom: 2%;
+}
+#roja .btn{
+	background-color: #D90C0C;
+	margin: 2% 0 4% 0;
+}
+.nav-rojo{
+	background-color: #D90C0C;
+	padding: 1%;
+	margin: 2% 0;
+}
+.nav-rojo li{
+	margin: auto 20px;
+	padding: 1% 2%;
+}
+.nav-rojo li:hover{
+	background-color: #970A00;
+	border-radius: 20px;	
+}
+.nav-rojo a{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+#roja h4{
+	font-weight: 600;
+    color: #7e7e7e;
+}
+.im-box{
+	padding: 5px 1px;
+}
+.im-box2{
+	padding: 5px 1px;
+}
+im-box-autor{
+	margin-bottom: 1%;
+}
 /* footer pris*/
 .pbcuatro{
 	margin: 0;
