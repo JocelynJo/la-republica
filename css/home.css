@@ -1,4 +1,154 @@
 
+<<<<<<< HEAD
+=======
+.arrow-rg{
+	width: 2%;
+	height: 2%;
+	margin-left: 2%;
+}
+.formulario-rg{
+	width: 100%; 
+	height: 100%; 
+	border: 3px solid #EBEBEB;
+	background: #EBEBEB;
+
+}
+.form-group-rg{  
+	width: 100%;
+	height: 100%;
+	border: 3px solid #EBEBEB;
+	background: #FFFFFF;
+}
+.sus-rg{
+	display: inline-block;
+	margin-left: 2%; 
+}
+.btn-rg{
+	width: 90%;
+	height: 20%;
+	color: #FFFFFF;
+
+}
+
+
+/*	margin-left: 5%;
+}
+.emma-rg{
+	
+}
+.emma-h2-rg{
+margin-left: 2%;
+}
+.emma-texto-rg{
+	/*margin-left: %;
+}
+.hor-rg{
+	margin-left: 3%;
+	margin-left: 2%;
+	}*/
+	.what-rg
+	{
+		color:#999999;
+		display: inline-block;
+	}
+	.plt-rg{
+		display: inline-block;
+	}
+
+	.ytb-rg{
+		display: inline-block;
+	}
+	.hr-rg{
+		width: 75%;
+		margin-right: 40%;
+	}
+	.rectangulo-rg{
+		width: 100%;
+		height: 100%;
+		border: 3px solid #999999;
+	}
+	.sidebar-rg{
+		margin-bottom: 5%;
+
+
+	}
+	.muevete-rg{
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.aweita-rg{
+		height: 100%;
+		width: 100%;
+		display: inline-block;
+		
+		margin-bottom: 5%;
+
+	}
+	.morado-rg{
+		width: 40%;
+		height: 5px;
+		background-color: #993E86;
+		margin-bottom: auto;
+
+	}
+	.deporte-rg{
+		display: block;	
+		border: solid 2px #666666;
+		height: 100%;
+		width: 100%;
+		display: block;
+		margin-top: 3%;
+		margin-bottom: 10%;
+		margin-left: 5%;
+
+	}
+	.diez-rg{
+		margin-top: 10%;
+		margin-bottom: 20%;
+
+	}
+
+	.gris-rg{
+		width: 126px;
+		height: 5px;
+		background-color: #666666;
+
+
+	}
+	.ultimas-rg{
+		width: 100%;
+		height: 90%;
+		background-color: #666666;
+		color:#FFFFFF;
+		padding: 3%;
+	}
+	.noticias-rg{
+		width: 100%;
+		margin-left: 13%;
+	}
+	.foto-rg{
+		border:solid 2px #666666;
+		height: 100%;
+		width: 100%;
+		margin-bottom: :5%;
+
+	}
+	.img-rg-final{
+		border:solid 2px #666666;
+		height: 100%;
+		width: 100%;
+		display: block;
+
+		margin-top: 3%;
+		margin-left: 5%;
+	}
+	
+
+
+/* Inserta tu código de la página home/index acá *
+>>>>>>> master
+=======
+>>>>>>> 4d209d9cb9b1e4d8ff515db49489838517ca3e20
 /* Inserta tu código de la página home/index acá */
 
 /* recuerden poner sus iniciales antes de cada selector de sus estilos*/
@@ -315,6 +465,7 @@ a{
 	}
 }
 /*fin estilos nadia*/
+
 
 
 
